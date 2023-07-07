@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dmytro 
+**Hi! My name is Dmytro **
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
 
 * 🌍  I'm based in Ukraine, Kyiv
