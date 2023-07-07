@@ -6,7 +6,7 @@
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
 
 * 🌍  I'm based in Ukraine, Kyiv
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-chirvasmytro-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dimachirva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:navion111@gmail.com)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-DimaChirva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dimachirva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:navion111@gmail.com)
 
 
 Skills  
