@@ -2,14 +2,7 @@
 
 ---
 
-### :man_technologist: Обо мне:
-iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-**Hi! My name is Dmytro **
+### :man_technologist: About me:
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
 
 * 🌍  I'm based in Ukraine, Kyiv
