@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
 
 * 🌍  I'm based in Ukraine, Kyiv
-* * ✉️  You can contact me at  [t.me/Dimachirva](mailto: t.me/Dimachirva)
+* ✉️  You can contact me at  [t.me/Dimachirva](mailto: t.me/Dimachirva)
 
 Skills  
 
