@@ -5,8 +5,14 @@
 ### :man_technologist: About me:
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
 
-* 🌍  I'm based in Ukraine, Kyiv
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-DimaChirva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dimachirva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:navion111@gmail.com)
+- 🌍  I'm based in Ukraine, Kyiv
+- ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-DimaChirva-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Dimachirva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:navion111@gmail.com)
+- 🌱 &nbsp; I’m currently learning App Development with SwiftUI
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ChirvaDev?tab=repositories)
+- 💬 &nbsp; [Ask me](mailto:navion111@gmail.com) about anything tech related, I am happy to discuss
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dmytro-chirva/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lwt_T6qZd2JpfKeAqqpDfK2ZS8GLmawB/view?usp=share_link)
+- 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 
 Skills  
