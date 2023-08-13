@@ -13,7 +13,24 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 
-Skills  
+# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+GitHub Profiles is an MVC practice project.
+GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
+The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
 
-<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> </p> 
-Socials  <p align="left"> <a href="https://www.github.com/ChirvaDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dimachirva_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+* Implemented programmatically without the use of storyboards.
+* No libraries used.
+* Support for light & dark mode. 
+* Model-View-Controller architecture.
+* Custom UIAlerts.
+* Use DiffableDataSource.
+* Implemented pagination on the search screen.
+* Image caching.
+* Use UserDefaults for saving favorite users.
+* REST API.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="230" title="GitHub Profiles">
+</p>
