@@ -13,16 +13,15 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 
-# [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+# [Quiz Game](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-GitHub Profiles is an MVC practice project.
-GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
+Quiz Game is an MVC practice project.
+Quiz Game is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
 The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
 
 * Implemented programmatically without the use of storyboards.
 * No libraries used.
-* Support for light & dark mode. 
 * Model-View-Controller architecture.
 * Custom UIAlerts.
 * Use DiffableDataSource.
@@ -32,5 +31,7 @@ The user can save his favorite GitHub accounts and have access to them through t
 * REST API.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="230" title="GitHub Profiles">
+
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/e6f977b6-0ad7-434c-a955-92df442a501c.png" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/77262882-f99b-4bfd-91c3-d007751ee342.png" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a09cba95-cbc7-428e-a396-555740c76ccf.png" width="230" title="GitHub Profiles">
+
 </p>
