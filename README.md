@@ -1,6 +1,4 @@
-# Hi! My name is Dmytro
-
----
+# ![header_1](https://github.com/ChirvaDev/ChirvaDev/assets/128970923/58659c5f-a259-4566-8f38-1b23bd7cfd06)
 
 ### :man_technologist: About me:
 iOS developer with a desire to develop in this field. I am interested in technology and its implementation in the everyday life of each human.
