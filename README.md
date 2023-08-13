@@ -16,22 +16,15 @@ iOS developer with a desire to develop in this field. I am interested in technol
 # [Quiz Game](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Quiz Game is an MVC practice project.
-Quiz Game is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
-The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
+Quiz Game is an MVVM practice project.
+The app offers you a series of quiz questions and keeps track of your score.
+Question progress, score tracking, user Interaction. A visually pleasing custom design.
 
-* Implemented programmatically without the use of storyboards.
-* No libraries used.
-* Model-View-Controller architecture.
-* Custom UIAlerts.
-* Use DiffableDataSource.
-* Implemented pagination on the search screen.
-* Image caching.
-* Use UserDefaults for saving favorite users.
-* REST API.
+- Built using SwiftUI.
+- Model-View-ViewModel architecture.
+- REST API.
+- No libraries are used.
 
 <p align="center">
-
 <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/e6f977b6-0ad7-434c-a955-92df442a501c.png" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/77262882-f99b-4bfd-91c3-d007751ee342.png" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a09cba95-cbc7-428e-a396-555740c76ccf.png" width="230" title="GitHub Profiles">
-
 </p>
