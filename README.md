@@ -13,7 +13,7 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 # [SupplierShop](https://github.com/ChirvaDev/SupplierShop) 
-<p align="left"> <a href="[https://github.com/ChirvaDev/SupplierShop]" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+<p align="left"> <a href="https://github.com/ChirvaDev/SupplierShop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Take-home project for one of the companies that I applied for a job.
 
