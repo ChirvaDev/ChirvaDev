@@ -12,6 +12,20 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lwt_T6qZd2JpfKeAqqpDfK2ZS8GLmawB/view?usp=share_link)
 - 📚 &nbsp; I am currenly reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
+# [SupplierShop](https://github.com/ChirvaDev/SupplierShop) 
+<p align="left"> <a href="[https://github.com/ChirvaDev/SupplierShop]" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
+</p>
+Take-home project for one of the companies that I applied for a job.
+
+* MVVM (Model-View-ViewModel) architecture
+* Data from JSON
+* Implemented pagination on the search screen
+
+
+<p align="center">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8c7a9b9d-fffb-4ffc-9356-70b749a5a2da.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/bbe0425e-21a3-4c74-a917-851f1f5d538d.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/6620197d-0e09-4ac2-ac4f-29efcdcdfb3c.gif" width="230" title="StraightUrBack">
+
+</p>
 
 # [Quiz Game](https://github.com/skovalysh/GitHubProfiles)
 <p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
