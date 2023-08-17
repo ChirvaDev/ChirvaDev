@@ -15,16 +15,17 @@ iOS developer with a desire to develop in this field. I am interested in technol
 # [Supplier Shop](https://github.com/ChirvaDev/SupplierShop) 
 <p align="left"> <a href="https://github.com/ChirvaDev/SupplierShop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Take-home project for one of the companies that I applied for a job.
+Take-home project for one of the companies that I applied for a job. This app displays a list of suppliers and their services in a specific region.
 
 * MVVM (Model-View-ViewModel) architecture
 * Data from JSON
+* Fetching data with async await
 * Implemented pagination on the search screen
+* Search after entering 3 characters
 * Custom splash screen animation (Lottie)
 
 <p align="center">
 <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8c7a9b9d-fffb-4ffc-9356-70b749a5a2da.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/bbe0425e-21a3-4c74-a917-851f1f5d538d.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/6620197d-0e09-4ac2-ac4f-29efcdcdfb3c.gif" width="230" title="StraightUrBack">
-
 </p>
 
 # [Quiz Game](https://github.com/skovalysh/GitHubProfiles)
@@ -41,4 +42,18 @@ Question progress, score tracking, user Interaction. A visually pleasing custom 
 
 <p align="center">
 <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/e6f977b6-0ad7-434c-a955-92df442a501c.png" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/77262882-f99b-4bfd-91c3-d007751ee342.png" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a09cba95-cbc7-428e-a396-555740c76ccf.png" width="230" title="GitHub Profiles">
+</p>
+
+
+# [iPet](https://github.com/ChirvaDev/iPet) 
+<p align="left"> <a href="https://github.com/ChirvaDev/iPet"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+IPet is an app that allows users to interact with their virtual pet. Users can feed and provide water to their virtual furry companion, monitor its hunger and thirst levels, and observe its mood. The app stores information about the virtual pet's state and actions between usage sessions.
+
+* MVVM (Model-View-ViewModel) architecture
+* UserDefaults for local storage of data between app sessions
+* The timer updates the data every 15 seconds.
+
+<p align="center">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/698e8146-090a-4280-a2af-7cf1c6c66c9c.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/41481b9d-4b7d-4143-9f6d-9db952a2d159.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
