@@ -12,10 +12,6 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lwt_T6qZd2JpfKeAqqpDfK2ZS8GLmawB/view?usp=share_link)
 - 📚 &nbsp; I am currently reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
-![screen 2 2_00000_00000](https://github.com/ChirvaDev/ChirvaDev/assets/128970923/91a7af22-63e7-4e0f-a7d2-801455186e5e)
-![screen 1 2_00000](https://github.com/ChirvaDev/ChirvaDev/assets/128970923/7ce30ae8-4b1b-48b0-abbb-5cd30a3d160e)
-
-
 # [Supplier Shop](https://github.com/ChirvaDev/SupplierShop) 
 <p align="left"> <a href="https://github.com/ChirvaDev/SupplierShop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
