@@ -13,9 +13,9 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📚 &nbsp; I am currently reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 # [TMDB Movie App](https://github.com/ChirvaDev/TMDB-Movie) 
-<p align="left"> <a href="https://github.com/ChirvaDev/SupplierShop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+<p align="left"> <a href="https://github.com/ChirvaDev/TMDB-Movie"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-Take-home project for one of the companies that I applied for a job. This app displays a list of suppliers and their services in a specific region.
+The "Movie Explorer" app presents a collection of top movies and provides a seamless navigation experience to access additional details. Users can access information about movies, including titles, ratings, genres, and overviews. 
 
 * MVVM (Model-View-ViewModel) architecture
 * Data from API
