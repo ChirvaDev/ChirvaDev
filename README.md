@@ -12,16 +12,15 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lwt_T6qZd2JpfKeAqqpDfK2ZS8GLmawB/view?usp=share_link)
 - 📚 &nbsp; I am currently reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
-# [TMDB Movie App](https://github.com/ChirvaDev/SupplierShop) 
+# [TMDB Movie App](https://github.com/ChirvaDev/TMDB-Movie) 
 <p align="left"> <a href="https://github.com/ChirvaDev/SupplierShop"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Take-home project for one of the companies that I applied for a job. This app displays a list of suppliers and their services in a specific region.
 
 * MVVM (Model-View-ViewModel) architecture
-* Data from JSON
-* Fetching data with async await
-* Implemented pagination on the search screen
-* Search after entering 3 characters
+* Data from API
+* Fetching data with URLSession
+* Implemented pagination 
 * Custom splash screen animation (Lottie)
 
 <p align="center">
