@@ -69,5 +69,5 @@ IPet is an app that allows users to interact with their virtual pet. Users can f
 * The timer updates the data every 15 seconds.
 
 <p align="center">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/c228172e-5caa-4138-9494-00e778870456.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/d8b5b877-aba7-4d10-8a31-f314dc914cfb.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/1b5095f2-450c-4065-9698-f3178cd163c5.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/ab7e6a3e-6a7e-4974-9b5c-7e61d88ad740.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
