@@ -9,7 +9,7 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ChirvaDev?tab=repositories)
 - 💬 &nbsp; [Ask me](mailto:navion111@gmail.com) about anything tech related, I am happy to discuss
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dmytro-chirva/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lwt_T6qZd2JpfKeAqqpDfK2ZS8GLmawB/view?usp=share_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1VAMzTFWy0FX4gJSb7sK_jzRF3qYsT8CO/view?usp=share_link)
 - 📚 &nbsp; I am currently reading [The Things You Can See Only When You Slow Down](https://www.goodreads.com/book/show/30780006-the-things-you-can-see-only-when-you-slow-down)
 
 # [TMDB Movie App](https://github.com/ChirvaDev/TMDB-Movie) 
