@@ -22,7 +22,7 @@ Photo Filter is an MVVM practice project.
 - Store Kit
 
 <p align="center">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4c158b75-30e6-435b-ae6b-ecbedf193a62.png" width="170"  title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/55ca6e36-7800-4cf5-97e9-3399afe1cb2b.png" width="170" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/2df51d2d-e096-43ca-9fe0-61d3b773ade8" width="170" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/59dc1e75-ae87-44e3-a70b-3e5ccaeda8b6" width="170" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3860d3cb-497b-4a27-a817-ebc29bacf7e7.png" width="170" title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4c158b75-30e6-435b-ae6b-ecbedf193a62.png" width="150"  title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/55ca6e36-7800-4cf5-97e9-3399afe1cb2b.png" width="150" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/2df51d2d-e096-43ca-9fe0-61d3b773ade8" width="150" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/59dc1e75-ae87-44e3-a70b-3e5ccaeda8b6" width="150" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3860d3cb-497b-4a27-a817-ebc29bacf7e7.png" width="150" title="GitHub Profiles">
 </p>
 
 # [Quiz Game](https://github.com//ChirvaDev/QuizGame)
