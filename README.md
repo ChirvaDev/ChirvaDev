@@ -11,8 +11,8 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dmytro-chirva/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1VAMzTFWy0FX4gJSb7sK_jzRF3qYsT8CO/view?usp=share_link)
 
-# [Pro Photo Filter](https://github.com//ChirvaDev/QuizGame)
-<p align="left"> <a href="https://github.com//ChirvaDev/QuizGame"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+# [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
+<p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 PRO Photo Filter is a photo editing app that allows users to quickly and easily apply various filters to their images. Choose a filter, adjust its intensity, and save your creative work. The app employs a simple and user-friendly interface to provide a pleasant photo editing experience.
 
