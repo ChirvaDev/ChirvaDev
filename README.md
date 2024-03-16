@@ -74,16 +74,3 @@ The "Movie Explorer" app presents a collection of top movies and provides a seam
 <p align="center">
 <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/1b792101-5eed-4dc0-ae30-727f0b441f26.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/5e4869e5-f229-4f75-bbc0-a1725d2254c9.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/bb6dfc53-a707-448b-be5f-866783356a75.gif" width="230" title="StraightUrBack">
 </p>
-
-# [iPet](https://github.com/ChirvaDev/iPet) 
-<p align="left"> <a href="https://github.com/ChirvaDev/iPet"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-IPet is an app that allows users to interact with their virtual pet. Users can feed and provide water to their virtual furry companion, monitor its hunger and thirst levels, and observe its mood. The app stores information about the virtual pet's state and actions between usage sessions.
-
-* MVVM (Model-View-ViewModel) architecture
-* UserDefaults for local storage of data between app sessions
-* The timer updates the data every 15 seconds.
-
-<p align="center">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/1b5095f2-450c-4065-9698-f3178cd163c5.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/ab7e6a3e-6a7e-4974-9b5c-7e61d88ad740.png" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
