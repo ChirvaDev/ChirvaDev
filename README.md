@@ -9,7 +9,7 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ChirvaDev?tab=repositories)
 - 💬 &nbsp; [Ask me](mailto:navion111@gmail.com) about anything tech related, I am happy to discuss
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dmytro-chirva/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1VAMzTFWy0FX4gJSb7sK_jzRF3qYsT8CO/view?usp=share_link)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qswsl10HsJNVHoKxR1PHlA21uKzP-ELN/view?usp=share_link)
 
 # [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
 <p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
