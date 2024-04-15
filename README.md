@@ -11,6 +11,26 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dmytro-chirva/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qswsl10HsJNVHoKxR1PHlA21uKzP-ELN/view?usp=share_link)
 
+# [Sky Navigators](https://apps.apple.com/ua/app/sky-navigators/id6484264845)
+<p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8fa68aec-d79e-4482-8019-7d72d1f9c18c.png" width="150" ></a>
+</p>
+Sky Navigators is an arcade game implemented using SwiftUI and SpriteKit for iOS, where players control an airplane using speed and steering to collect items and avoid obstacles. The game features unique branching storylines that depend on the player's choices, providing each player with an individual gaming experience.
+
+- Built with SwiftUI and SpriteKit
+- AppsFlyer, Firebase, FBSDK
+- Push-notification
+- UserDefaults
+- Custom Design
+
+
+<p align="center">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4688dbb2-78ce-4ce2-9605-52af5b5249a8.png" width="180"  title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/7442086f-4db1-4061-afe0-f6bddf3c4d08.png" width="180"  title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/06af3313-4bd5-4f58-9716-5ff03672c308.png" width="180" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/fa88af4a-e391-4738-8223-b0f53bda904b.png" width="180" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/f7d3ea72-699d-4c1b-b8cc-e7cfaf01bf5a.png" width="180" title="StraightUrBack">
+</p>
+
 # [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
 <p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
@@ -22,7 +42,7 @@ PRO Photo Filter is a photo editing app that allows users to quickly and easily 
 - Model-View-ViewModel architecture
 - Custom fonts
 - Intuitive design
-  
+
 
 <p align="center">
 <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4c158b75-30e6-435b-ae6b-ecbedf193a62.png" width="165"  title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/55ca6e36-7800-4cf5-97e9-3399afe1cb2b.png" width="165" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/2df51d2d-e096-43ca-9fe0-61d3b773ade8" width="165" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/59dc1e75-ae87-44e3-a70b-3e5ccaeda8b6" width="165" title="GitHub Profiles"><img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3860d3cb-497b-4a27-a817-ebc29bacf7e7.png" width="165" title="GitHub Profiles">
