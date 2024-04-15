@@ -12,7 +12,7 @@ iOS developer with a desire to develop in this field. I am interested in technol
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1qswsl10HsJNVHoKxR1PHlA21uKzP-ELN/view?usp=share_link)
 
 # [Sky Navigators](https://apps.apple.com/ua/app/sky-navigators/id6484264845)
-<p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8fa68aec-d79e-4482-8019-7d72d1f9c18c.png" width="150" ></a>
+<p align="left"> <a href="https://apps.apple.com/ua/app/sky-navigators/id6484264845"> <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8fa68aec-d79e-4482-8019-7d72d1f9c18c.png" width="150" ></a>
 </p>
 Sky Navigators is an arcade game implemented using SwiftUI and SpriteKit for iOS, where players control an airplane using speed and steering to collect items and avoid obstacles. The game features unique branching storylines that depend on the player's choices, providing each player with an individual gaming experience.
 
@@ -24,11 +24,11 @@ Sky Navigators is an arcade game implemented using SwiftUI and SpriteKit for iOS
 
 
 <p align="center">
-  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4688dbb2-78ce-4ce2-9605-52af5b5249a8.png" width="180"  title="GitHub Profiles">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/7442086f-4db1-4061-afe0-f6bddf3c4d08.png" width="180"  title="GitHub Profiles">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/06af3313-4bd5-4f58-9716-5ff03672c308.png" width="180" title="StraightUrBack">
-  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/fa88af4a-e391-4738-8223-b0f53bda904b.png" width="180" title="StraightUrBack">
-  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/f7d3ea72-699d-4c1b-b8cc-e7cfaf01bf5a.png" width="180" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/4688dbb2-78ce-4ce2-9605-52af5b5249a8.png" width="170"  title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/7442086f-4db1-4061-afe0-f6bddf3c4d08.png" width="170"  title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/06af3313-4bd5-4f58-9716-5ff03672c308.png" width="170" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/fa88af4a-e391-4738-8223-b0f53bda904b.png" width="170" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/f7d3ea72-699d-4c1b-b8cc-e7cfaf01bf5a.png" width="170" title="StraightUrBack">
 </p>
 
 # [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
