@@ -31,6 +31,24 @@ Sky Navigators is an arcade game implemented using SwiftUI and SpriteKit for iOS
   <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/f7d3ea72-699d-4c1b-b8cc-e7cfaf01bf5a.png" width="160" title="StraightUrBack">
 </p>
 
+# [Olympus Dominion](https://apps.apple.com/ua/app/olympus-dominion/id6479020566?l)
+<p align="left"> <a href="https://apps.apple.com/ua/app/olympus-dominion/id6479020566?l"> <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/8fa68aec-d79e-4482-8019-7d72d1f9c18c.png" width="150" ></a>
+</p>
+Olympus Dominion is a slot machine game implemented using SwiftUI for iOS, where players embark on an adventure through the realms of Greek gods, including Zeus, Athena, and Poseidon. 
+
+- SwiftUI: For building the user interface and managing the game's state.
+- Lottie Animation: For creating smooth animations and transitions.
+- UserDefaults: For persisting user preferences and game progress.
+- Firebase and Facebook SDK: For analytics and crash reporting.
+- Push notifications: For sending updates and promotions to players.
+
+
+<p align="center">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a29aad9d-a0c6-434e-aa20-32ed268dcdbf.png" width="200" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3ecca200-7317-4e0a-8fc8-add7dc141ddf.png" width="200" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a33ff440-8999-4860-8734-60e2059d8a14.png" width="200" title="StraightUrBack">
+</p>
+
 # [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
 <p align="left"> <a href="https://github.com//ChirvaDev/ProPhotoFilter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
