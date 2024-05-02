@@ -44,9 +44,11 @@ Olympus Dominion is a slot machine game implemented using SwiftUI for iOS, where
 
 
 <p align="center">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a29aad9d-a0c6-434e-aa20-32ed268dcdbf.png" width="200" title="StraightUrBack">
-  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3ecca200-7317-4e0a-8fc8-add7dc141ddf.png" width="200" title="StraightUrBack">
-  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a33ff440-8999-4860-8734-60e2059d8a14.png" width="200" title="StraightUrBack">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a29aad9d-a0c6-434e-aa20-32ed268dcdbf.png" width="190" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/3ecca200-7317-4e0a-8fc8-add7dc141ddf.png" width="190" title="StraightUrBack">
+  <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a33ff440-8999-4860-8734-60e2059d8a14.png" width="190" title="StraightUrBack">
+      <img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/b7ef9aea-0796-43fc-a251-a3894e80012a.gif" width="214" title="StraightUrBack">
+
 </p>
 
 # [Pro Photo Filter](https://github.com//ChirvaDev/ProPhotoFilter)
