@@ -81,7 +81,10 @@ Question progress, score tracking, user Interaction. A visually pleasing custom 
 - Network requests with URLSession
 
 <p align="center">
-<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/e6f977b6-0ad7-434c-a955-92df442a501c.png" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/77262882-f99b-4bfd-91c3-d007751ee342.png" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/a09cba95-cbc7-428e-a396-555740c76ccf.png" width="230" title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/9b8a4736-fbcf-43a1-966c-db3e2f849058.png" width="200"  title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/e37245a6-c8f4-4827-8fea-0595940634e9.png" width="200" title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/76a43140-9cd3-4db2-b43d-b31c0a7ec68a.png" width="200" title="GitHub Profiles">
+<img src="https://github.com/ChirvaDev/ChirvaDev/assets/128970923/c54977fb-624c-4b85-af1d-2e5f2d02ac18.png" width="200" title="GitHub Profiles">
 </p>
 
 # [Supplier Shop](https://github.com/ChirvaDev/SupplierShop) 
